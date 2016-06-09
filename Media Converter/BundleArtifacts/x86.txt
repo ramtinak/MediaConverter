@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Ramtin\Documents\Visual Studio 2015\Projects\Media Converter\Media Converter\bin\x86\Debug\Media Converter_1.0.5.0_x86_Debug.appx
+SymbolPackage=C:\Users\Ramtin\Documents\Visual Studio 2015\Projects\Media Converter\Media Converter\AppPackages\Media Converter_1.0.5.0_Debug_Test\Media Converter_1.0.5.0_x86_Debug.appxsym

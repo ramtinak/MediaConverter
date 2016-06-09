@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media Converter", "Media Converter\Media Converter.csproj", "{919583A6-39E1-42D0-9106-5CEF729D3B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Debug|ARM.ActiveCfg = Debug|ARM
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Debug|ARM.Build.0 = Debug|ARM
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Debug|ARM.Deploy.0 = Debug|ARM
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Debug|x64.ActiveCfg = Debug|x64
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Debug|x64.Build.0 = Debug|x64
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Debug|x64.Deploy.0 = Debug|x64
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Debug|x86.ActiveCfg = Debug|x86
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Debug|x86.Build.0 = Debug|x86
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Debug|x86.Deploy.0 = Debug|x86
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Release|ARM.ActiveCfg = Release|ARM
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Release|ARM.Build.0 = Release|ARM
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Release|ARM.Deploy.0 = Release|ARM
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Release|x64.ActiveCfg = Release|x64
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Release|x64.Build.0 = Release|x64
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Release|x64.Deploy.0 = Release|x64
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Release|x86.ActiveCfg = Release|x86
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Release|x86.Build.0 = Release|x86
+		{919583A6-39E1-42D0-9106-5CEF729D3B22}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://parsedev.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Media\u0020Converter\\Media\u0020Converter.csproj
+		SccProjectName1 = Media\u0020Converter
+		SccLocalPath1 = Media\u0020Converter
+	EndGlobalSection
+EndGlobal

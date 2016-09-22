@@ -1,5 +1,5 @@
 # MediaConverter
-With Media Converter you can easily convert .wmv, .mp4 ,.mp3 ,.mp4 ,.flac ,.mkv ,.wma ,.m4a and .m4v to each other.
+With Media Converter you can easily convert .wmv, .mp4 ,.mp3 ,.mp4 ,.mkv ,.wma ,.m4a and .m4v to each other.
 
 Show time remaining, elapsed time, and convert percent.
 
